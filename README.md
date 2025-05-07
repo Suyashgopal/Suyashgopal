@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Suyashgopal
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning da&algo
+- 👋 Hi, I’m Suyash Chamoli
+- 👀 I’m interested in web development(backend)
+- 🌱 I’m currently learning da&algo(leetcoding) and learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him

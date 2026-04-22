@@ -1,4 +1,4 @@
-vinayak = {
+Suyash = {
     "role"       : "Backend developer",
     "education"  : "B.Tech CSE @ KIIT University (2023–2027)",
     "location"   : "India 🇮🇳",

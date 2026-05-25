@@ -18,28 +18,36 @@
 
 <div align="left">
 
-## 🛠️ Tech Stack & Ecosystem
+---
 
-### 💻 Core Backend & Tooling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,idea&theme=dark" />
-  </a>
-</p>
+## 🛠️ Tech Stack & Core Competencies
 
-### 🗄️ Databases, Caching & Data Layers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
-  </a>
-</p>
-
-### 🔧 Version Control & API Testing
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="left" width="120px"><b>Languages</b></td>
+    <td align="left">Java (8+), SQL</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frameworks</b></td>
+    <td align="left">Spring Boot, Spring MVC, Spring Data JPA, Hibernate</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Architecture</b></td>
+    <td align="left">RESTful APIs, Microservices, Concurrency & Multithreading</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Security</b></td>
+    <td align="left">Spring Security, JWT, OAuth2</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Databases</b></td>
+    <td align="left">MySQL, MongoDB, Redis (Caching)</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Testing & Tools</b></td>
+    <td align="left">JUnit, Mockito, Postman, Git, Maven</td>
+  </tr>
+</table>
 
 ---
 

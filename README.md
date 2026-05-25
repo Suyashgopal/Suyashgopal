@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Suyash Chamoli
-### Java Backend Developer • System Design & Problem Solving
+###  Development • Problem Solving
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;Focused+on+Scalable+Architecture;Daily+DSA+Practitioner" alt="Typing SVG" />
 

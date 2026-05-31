@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Suyash Chamoli
+#  Suyash Chamoli
 ###  Development • Problem Solving
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Spring+Boot+%7C+Optimization;Development;DSA" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Core Competencies
+##  Tech Stack
 
 <table>
   <tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 Performance Analytics
+##  Performance Analytics
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suyashgopal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -64,8 +64,7 @@
 </p>
 
 ---
-
-## 💡 Algorithms & Data Structures
+##  Algorithms & Data Structures
 
 <p align="center">
   <a href="https://leetcode.com/u/suyash_g/" target="_blank">
@@ -75,7 +74,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Suyashgopal/Suyashgopal/output/snake.svg" alt="Snake Animation" />

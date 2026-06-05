@@ -32,10 +32,6 @@
     <td align="left">Spring Boot, Spring MVC, Spring Data JPA, Hibernate</td>
   </tr>
   <tr>
-    <td align="left"><b>Architecture</b></td>
-    <td align="left">RESTful APIs, Microservices, Concurrency & Multithreading</td>
-  </tr>
-  <tr>
     <td align="left"><b>Security</b></td>
     <td align="left">Spring Security, JWT, OAuth2</td>
   </tr>

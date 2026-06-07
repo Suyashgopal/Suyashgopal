@@ -69,15 +69,3 @@
 </p>
 
 ---
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suyashgopal/Suyashgopal/output/snake.svg" alt="Snake Animation" />
-</p>
-
-</div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Suyashgopal&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Views" />
-</p>

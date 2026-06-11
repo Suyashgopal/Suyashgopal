@@ -15,10 +15,6 @@
 
 ---
 
-<div align="left">
-
----
-
 ##  Tech Stack
 
 <table>

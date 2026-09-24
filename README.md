@@ -20,23 +20,19 @@
 <table>
   <tr>
     <td align="left" width="120px"><b>Languages</b></td>
-    <td align="left">Java (8+), SQL</td>
+    <td align="left">Java (8+), SQL, JavaScript, Python </td>
   </tr>
   <tr>
-    <td align="left"><b>Frameworks</b></td>
-    <td align="left">Spring Boot, Spring MVC, Spring Data JPA, Hibernate</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Security</b></td>
-    <td align="left">Spring Security, JWT, OAuth2</td>
+    <td align="left"><b>Backend Frameworks</b></td>
+    <td align="left">Spring Boot,Spring AI Spring MVC, Spring Data JPA, Hibernate ,Spring Security, JWT, OAuth2</td>
   </tr>
   <tr>
     <td align="left"><b>Databases</b></td>
-    <td align="left">MySQL, MongoDB, Redis (Caching)</td>
+    <td align="left">MySQL, PostgreSQL, MongoDB, Redis</td>
   </tr>
   <tr>
     <td align="left"><b>Testing & Tools</b></td>
-    <td align="left">JUnit, Mockito, Postman, Git, Maven</td>
+    <td align="left">JUnit, Mockito, Postman, Git, Maven, Ubuntu/Linux </td>
   </tr>
 </table>
 

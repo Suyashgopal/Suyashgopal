@@ -31,8 +31,8 @@
     <td align="left">MySQL, PostgreSQL, MongoDB, Redis</td>
   </tr>
   <tr>
-    <td align="left"><b>Testing & Tools</b></td>
-    <td align="left">JUnit, Mockito, Postman, Git, Maven, Ubuntu/Linux </td>
+    <td align="left"><b>Testing & Tools & Cloud </b></td>
+    <td align="left">JUnit, Mockito, Postman, Git, Maven, Ubuntu/Linux, GitHub Actions, AWS (EC2, S3, RDS) </td>
   </tr>
 </table>
 

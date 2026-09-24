@@ -36,19 +36,6 @@
   </tr>
 </table>
 
----
-
-##  Performance Analytics
-
-<p align="center">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suyashgopal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suyashgopal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suyashgopal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
 
 ---
 ##  Algorithms & Data Structures
